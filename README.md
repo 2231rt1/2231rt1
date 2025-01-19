@@ -71,7 +71,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <p align="center"> <a href="https://t.me/Awesomely0" target="_blank"><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=%23fff"/></a> <a href="https://discordapp.com/users/912030506047123616/" target="_blank"><img src="https://img.shields.io/badge/OMGkawaiThanatos!%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
-<div>
+<div align = "center">
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
 <img src="https://i.imgur.com/tzYKRfd.gif">
