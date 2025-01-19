@@ -67,7 +67,9 @@ Im also very good at writing Guides for example writing this shit here. Literall
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/thanatosan" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=%23fff">
+  </a>
+<p align="center"><a href="https://t.me/Awesomely0" target="_blank"><img src="https://img.shields.io/badge/Kira%telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=%23fff">"/></a> <a href="https://discord.me/thanatosan" target="_blank"><img src="https://img.shields.io/badge/OMGkawaiThanatos!%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
