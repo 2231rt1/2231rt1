@@ -35,7 +35,7 @@
 <b>Gender:</b> he/him/man
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development, Sport
+<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development, Watching Anime
 </li>
 <li>
 <b>Working @:</b> ???
