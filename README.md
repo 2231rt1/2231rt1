@@ -57,7 +57,10 @@
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=000"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Im also very good at writing Guides for example writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and Programming
+Proficient in front-end development with <b>React</b> and
+        <b>TypeScript</b>. I enjoy making complex concepts simple and elegant.
+        Beyond coding, I also excel at crafting engaging graphics and intuitive
+        user experiences.
 </p>
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
