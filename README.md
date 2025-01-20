@@ -43,7 +43,7 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center">~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 position = "absolute" align="center">~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
 <p>
   <div align="center">
@@ -75,7 +75,7 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div align = "center">
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 position = "absolute" align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </div>
